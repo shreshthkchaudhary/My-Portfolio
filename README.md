@@ -1,6 +1,45 @@
-# My Portfolio Website  
+# My Portfolio Website
 
-This is my **first website project**, titled *"My Portfolio"*. The project is built completely using **HTML5** where I practiced using multiple tags and attributes to create a structured layout for a portfolio page.  
+Welcome to "My Portfolio" – a beginner-friendly, fully HTML5 portfolio project built to showcase personal details, skills, and projects where I practiced using multiple tags and attributes to create a structured layout for a portfolio page.
+
+---
+
+## 🚀 How to Use
+
+1. **Open `My_Portfolio.html` or `Profile.html` in any web browser.**
+2. If you have opened `Profile.html` click on profile image to continue, else skip step 2nd.
+3. Browse sections using the navigation bar at the top.
+4. Visit projects, see a table of skills, and view personal bio and hobbies.
+5. Fill the contact form to connect or navigate to “Feedback Here” for additional comments.
+6. Use any Social Media icon in the footer to reach out via preferred platforms.
+
+---
+
+## 🌟 Features
+
+- **Multi-section navigation** with About, Projects, Skills, Contact, and Social Handles.
+- **Profile photo display** using `Profile_Picture.jpg`.
+- **List of projects** with square bullets.
+- **Skills table** highlighting technologies with proficiency levels.
+- **Contact form** for user messages and connections.
+- **Footer with clickable social icons** including Instagram, Facebook, LinkedIn, Gmail, WhatsApp, and Threads.
+- **Cross-page navigation**: Easy access to the Feedback form from any page.
+
+---
+
+## 📁 Structure
+
+- **My_Portfolio.html**: Main website file.
+- **Profile.html**: Profile details page.
+- **Feedback.html**: Custom feedback/contact form.
+- **/images or local project root/**:  
+  - Profile_Picture.jpg  
+  - whatsapp_logo_icon.jpg  
+  - thread_logo_icon.jpg  
+  - facebook_logo_icon.jpg  
+  - linkedin_logo_icon.jpg  
+  - instagram_logo_icon.jpg  
+  - gmail_mail_icon.jpg  
 
 ---
 
@@ -40,16 +79,28 @@ The website follows a basic HTML document setup:
 
 ---
 
-### 🚀 Features  
+## 👨‍💻 Technologies
 
-- Responsive layout using `<meta viewport>`  
-- Navigation bar for easy section jumps  
-- Profile image and hobbies listed in aside  
-- Skills table visually highlighting strengths  
-- Contact form with email submission support  
-- Footer with clickable social media links/icons  
+- **HTML5** for structure, links, lists, forms, and multimedia.
+- Icons and images are local `.jpg` files referenced in HTML.
+- No external CSS or JavaScript – design focuses on HTML elements and attributes.
 
 ---
+
+## 📬 Connect
+
+- Instagram, Facebook, LinkedIn, WhatsApp, Gmail, GitHub, and Threads buttons in the footer.
+
+---
+
+## 📝 Feedback
+
+Find a bug or have suggestions?  
+[Click "Feedback Here"](Feedback.html) on the main page to submit your thoughts!
+
+
+# My Portfolio Website  
+
 
 ### 🛠️ Technologies Used  
 
@@ -73,3 +124,10 @@ If anyone wants to connect:
 - Email: [ishu9411kumam@gmail.com]  
 - GitHub: [https://github.com/shreshthkchaudhary]
 - LinkedIn: [www.linkedin.com/in/shreshth-k-chaudhary]
+
+---
+
+## 🙏 Credits
+
+- All profile and icon images are included as project files.
+- Built and designed by Shreshth (B.Tech CSE student) to practice web development basics.
