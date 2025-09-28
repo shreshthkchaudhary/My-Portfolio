@@ -43,7 +43,7 @@ Welcome to "My Portfolio" – a beginner-friendly, fully HTML5 portfolio project
 
 ---
 
-### 📑 Project Structure  
+## 📑 Project Structure  
 
 The website follows a basic HTML document setup:  
 
@@ -98,11 +98,7 @@ The website follows a basic HTML document setup:
 Find a bug or have suggestions?  
 [Click "Feedback Here"](Feedback.html) on the main page to submit your thoughts!
 
-
-# My Portfolio Website  
-
-
-### 🛠️ Technologies Used  
+## 🛠️ Technologies Used  
 
 - **HTML5** (only)  
 - Inline attributes (`src`, `href`, `type`, `style`)  
@@ -110,7 +106,7 @@ Find a bug or have suggestions?
 
 ---
 
-### 📂 Project Goals  
+## 📂 Project Goals  
 
 - Learn and practice **HTML structure & semantics**.  
 - Build a simple **personal portfolio webpage**.  
@@ -118,7 +114,7 @@ Find a bug or have suggestions?
 
 ---
 
-### 📧 Contact  
+## 📧 Contact  
 
 If anyone wants to connect:  
 - Email: [ishu9411kumam@gmail.com]  
