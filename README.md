@@ -117,7 +117,7 @@ Find a bug or have suggestions?
 ## 📧 Contact  
 
 If anyone wants to connect:  
-- Email: [ishu9411kumam@gmail.com]  
+- Email: [ishu9411kumar@gmail.com]  
 - GitHub: [https://github.com/shreshthkchaudhary]
 - LinkedIn: [www.linkedin.com/in/shreshth-k-chaudhary]
 
