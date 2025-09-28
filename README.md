@@ -1,6 +1,8 @@
 # My-Portfolio
 
-My first website of "My Portfolio" where i have used multiple TAGS and there ATTRIBUTES to build it.
+# My first website of "My Portfolio" where i have used multiple TAGS and there ATTRIBUTES to build it.
+
+<!--
 
 Structure & Metadata
 
@@ -47,3 +49,5 @@ Footer (Handles & Links)
 <a href="..."> with <img> inside → Clickable social media icons.
 mailto: → Opens email app to send an email.
 <b> inside <a> → Bold link text.
+
+-->
