@@ -1,53 +1,75 @@
-# My-Portfolio
+# My Portfolio Website  
 
-# My first website of "My Portfolio" where i have used multiple TAGS and there ATTRIBUTES to build it.
+This is my **first website project**, titled *"My Portfolio"*. The project is built completely using **HTML5** where I practiced using multiple tags and attributes to create a structured layout for a portfolio page.  
 
-<!--
+---
 
-Structure & Metadata
+### 📑 Project Structure  
 
-<!DOCTYPE html> → Defines the document type as HTML5.
-<html lang="en"> → Root element of the webpage, language set to English.
-<head> → Contains meta info, title, and settings for the page.
-<meta charset="UTF-8"> → Sets character encoding (UTF-8 for all symbols).
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> → Makes the page responsive on all devices.
-<title> → Title of the webpage (shows in browser tab).
+The website follows a basic HTML document setup:  
 
-Body & Sections
+- **Structure & Metadata**  
+  - `<!DOCTYPE html>` → Declares the document as HTML5.  
+  - `<html lang="en">` → Defines root and sets the language to English.  
+  - `<head>` → Includes metadata: title, character set, and viewport for responsiveness.  
+  - `<title>` → Sets the page title visible in the browser tab.  
 
-<body> → Main content area shown in the browser.
-<header> → Top section of the site, usually includes title/logo/navigation.
-<h1> → Main heading (largest).
-<b> → Makes text bold.
-<nav> → Navigation bar with links.
-<a> → Anchor tag, used for links (internal #id or external URLs).
-<hr> → Horizontal line (divider between sections).
-<section> → Defines different sections of the webpage.
-<h3> → Smaller heading.
-<p> → Paragraph (normal text).
-<i> → Italic text (used for emphasis).
-<img> → Image tag (src = file, width/height = size, style = CSS inline styles).
-<aside> → Side content, usually related but secondary info.
-<ul type="square"> → Unordered list with square bullets.
-<li> → List item inside a list.
-  
-Skills Table
+- **Body & Sections**  
+  - `<header>` → Contains the main **site title/logo** and navigation menu.  
+  - `<nav>` with `<a>` → Navigation bar with links to sections.  
+  - `<section>` → Different sections for *About Me*, *Projects*, *Skills*, etc.  
+  - `<h1>`, `<h3>` → Headings for content hierarchy.  
+  - `<p>`, `<i>`, `<b>` → Text formatting for emphasis.  
+  - `<img>` → Profile picture with size adjustments.  
+  - `<aside>` → Side note content.  
+  - `<ul>` and `<li>` → Lists for hobbies/skills.  
 
-<table border="1"> → Table with a border.
-<tr> → Table row.
-<th> → Table header cell (bold & centered by default).
-<td> → Table data cell (normal content).
-Form (Contact)
-<form> → Input form for user data.
-<label> → Label for input fields.
-<input type="text/email/submit"> → Input fields (text, email, submit button).
-<textarea> → Large multi-line text box.
+- **Skills Table**  
+  - `<table border="1">` → Table to represent coding/software skills.  
+  - `<tr>`, `<th>`, `<td>` → Structure of rows, headers, and data cells.  
 
-Footer (Handles & Links)
+- **Contact Form**  
+  - `<form>` with `<label>` and `<input>` fields for text, email, and message.  
+  - `<textarea>` → Multi-line message input.  
+  - `<input type="submit">` → Button to send details.  
 
-<footer> → Bottom section of the page.
-<a href="..."> with <img> inside → Clickable social media icons.
-mailto: → Opens email app to send an email.
-<b> inside <a> → Bold link text.
+- **Footer**  
+  - `<footer>` → Contact handles at the bottom.  
+  - Social media icons and email link with `mailto:` feature.  
+  - Clickable images inside `<a>` tags.  
 
--->
+---
+
+### 🚀 Features  
+
+- Responsive layout using `<meta viewport>`  
+- Navigation bar for easy section jumps  
+- Profile image and hobbies listed in aside  
+- Skills table visually highlighting strengths  
+- Contact form with email submission support  
+- Footer with clickable social media links/icons  
+
+---
+
+### 🛠️ Technologies Used  
+
+- **HTML5** (only)  
+- Inline attributes (`src`, `href`, `type`, `style`)  
+- No CSS/JS for now in My_Portfolio.html (as a beginner project)  
+
+---
+
+### 📂 Project Goals  
+
+- Learn and practice **HTML structure & semantics**.  
+- Build a simple **personal portfolio webpage**.  
+- Prepare a foundation to later add **CSS styling** and **JavaScript features**.  
+
+---
+
+### 📧 Contact  
+
+If anyone wants to connect:  
+- Email: [ishu9411kumam@gmail.com]  
+- GitHub: [https://github.com/shreshthkchaudhary]
+- LinkedIn: [www.linkedin.com/in/shreshth-k-chaudhary]
